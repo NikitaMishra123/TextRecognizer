@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "876579899502",
+    "firebase_url": "https://textreco-6a6d1.firebaseio.com",
+    "project_id": "textreco-6a6d1",
+    "storage_bucket": "textreco-6a6d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876579899502:android:6b954dce348a3311393e7f",
+        "android_client_info": {
+          "package_name": "com.example.textreco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876579899502-jtaevt6f4sc87t1r8uaslhv71ldvfhrc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.textreco",
+            "certificate_hash": "36bd8e2cb2f32cbb6fe5300e0e025c87117b8426"
+          }
+        },
+        {
+          "client_id": "876579899502-bm7d9dpcsi01j0o4e9kj8v8v5sb74hgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq_VdHjCBTHoHn5auCm8t05mPvY2sToBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876579899502-bm7d9dpcsi01j0o4e9kj8v8v5sb74hgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
